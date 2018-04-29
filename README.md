@@ -7,5 +7,5 @@ The Geometry adapts to the axis of the mullions connected to it so it will creat
 **Componants Inputs:**
 List of curves that are connected at this point.
 
-**Componant Output**
+**Componant Output:**
 a Rhino Brep which has a geometry influenced by the curve directions.
